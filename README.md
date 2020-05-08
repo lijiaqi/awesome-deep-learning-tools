@@ -30,6 +30,8 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 ### Hyperparameter Optimization
 - [Tune](https://docs.ray.io/en/latest/tune.html): a Python library for experiment execution and hyperparameter tuning at any scale.
 - [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
+- [adatune](https://github.com/awslabs/adatune): Gradient based Hyperparameter Tuning library in PyTorch
+- [FAR-HO](https://github.com/lucfra/FAR-HO): Gradient based hyperparameter optimization & meta-learning package for TensorFlow
 
 ### High Level API/Distributed Training
 - [pytorch-lighting](https://pytorch-lightning.readthedocs.io/en/stable/): a higher level API for PyTorch
