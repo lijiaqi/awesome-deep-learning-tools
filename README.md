@@ -12,7 +12,7 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 
 - [yacs](https://github.com/rbgirshick/yacs): Yet Another Configuration System by [Ross Girshick](http://www.rossgirshick.info/)
 
-## 2.Higher phrase
+## 2.And more
 ### Data
 - [alfred](https://github.com/jinfagang/alfred): A deep learning utility library for visualization and sensor fusion purpose
 
