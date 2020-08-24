@@ -15,7 +15,7 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 ## 1.Basic tools
 - [logging](https://docs.python.org/3.6/library/logging.html): a python module for logging
 
-- [tensorboard](https://www.tensorflow.org/tensorboard)(for TensorFlow)/[tensorboardX](https://github.com/lanpa/tensorboardX)(for PyTorch): visualization during experiments
+- [tensorboard](https://www.tensorflow.org/tensorboard)(for TensorFlow)/[tensorboardX](https://github.com/lanpa/tensorboardX)(for PyTorch): visualization during experiments (**update**: PyTorch officially support TensorboardX since [v1.1.0](https://github.com/pytorch/pytorch/releases/tag/v1.1.0), please use `from torch.utils.tensorboard import SummaryWriter`.)
 
 - [pyyaml](https://pyyaml.org/) or [ruamel.yaml](https://pypi.org/project/ruamel.yaml/): python modules for yaml configuration
 
