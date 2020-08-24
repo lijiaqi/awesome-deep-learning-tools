@@ -28,6 +28,13 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 - [DALI](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/index.html): A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
 
 ### Experiments management
+- Project [manifest](https://github.com/catalyst-team/catalyst/blob/master/MANIFEST.md). Part of [Catalyst Ecosystem](https://docs.google.com/presentation/d/1D-yhVOg6OXzjo9K_-IS5vSHLPIUxp1PEkFGnpRcNCNU/edit?usp=sharing):
+  - [Alchemy](https://github.com/catalyst-team/alchemy) - Experiments logging & visualization
+  - [Catalyst](https://github.com/catalyst-team/catalyst) - Accelerated Deep Learning Research and Development
+  - [Reaction](https://github.com/catalyst-team/reaction) - Convenient Deep Learning models serving
+  
+- [tensorboard.dev](https://tensorboard.dev/): visualization and tracking
+
 - [wandb](https://www.wandb.com/): A tool for visualizing and tracking your machine learning experiments. 
 
 - [fitlog](https://github.com/fastnlp/fitlog) by Fudan University: A tool for logging and code management
