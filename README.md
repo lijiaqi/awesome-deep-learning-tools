@@ -50,6 +50,7 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 - [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
 - [adatune](https://github.com/awslabs/adatune): Gradient based Hyperparameter Tuning library in PyTorch
 - [FAR-HO](https://github.com/lucfra/FAR-HO): Gradient based hyperparameter optimization & meta-learning package for TensorFlow
+- [optuna](https://optuna.org/): An open source hyperparameter optimization framework to automate hyperparameter search
 
 ### High Level API/Distributed Training
 - [pytorch-lighting](https://pytorch-lightning.readthedocs.io/en/stable/): a higher level API for PyTorch
