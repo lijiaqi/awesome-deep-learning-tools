@@ -19,9 +19,21 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 
 - [pyyaml](https://pyyaml.org/) or [ruamel.yaml](https://pypi.org/project/ruamel.yaml/): python modules for yaml configuration
 
+## 2.For Experiment
+### Project Template
+- [Pytorch-Hydra-template](https://github.com/hobogalaxy/lightning-hydra-template): A clean and scalable template to kickstart your deep learning project
+- [Pytorch-Project-Template](https://github.com/lijiaqi/PyTorch-Project-Template): **to be released**
+
+### High Level API/Distributed Training
+- [Pytorch-Lighting](https://github.com/PyTorchLightning/pytorch-lightning):The lightweight PyTorch wrapper for high-performance AI research.
+- [apex](http://apex.run/): mixed-precisin (***no longer being maintainted***)
+- [Horovod](https://eng.uber.com/horovod/) by Uber: a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+
+### Configures Management
+- [hydra](https://hydra.cc/)([github](https://github.com/facebookresearch/hydra)): A framework for elegantly configuring complex applications
+
 - [yacs](https://github.com/rbgirshick/yacs): Yet Another Configuration System by [Ross Girshick](http://www.rossgirshick.info/)
 
-## 2.For Experiment
 ### Data
 - [alfred](https://github.com/jinfagang/alfred): A deep learning utility library for visualization and sensor fusion purpose
 
@@ -52,7 +64,9 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 - [FAR-HO](https://github.com/lucfra/FAR-HO): Gradient based hyperparameter optimization & meta-learning package for TensorFlow
 - [optuna](https://optuna.org/): An open source hyperparameter optimization framework to automate hyperparameter search
 
-### High Level API/Distributed Training
-- [pytorch-lighting](https://pytorch-lightning.readthedocs.io/en/stable/): a higher level API for PyTorch
-- [apex](http://apex.run/): mixed-precisin (***no longer being maintainted***)
-- [Horovod](https://eng.uber.com/horovod/) by Uber: a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+## 3. Libs
+### Self-Supervised Learning
+- [lightly](https://www.lightly.ai/)([github](https://github.com/lightly-ai/lightly)): a computer vision framework for self-supervised learning.
+
+### Semi-Supervised Learning && Domain Adaptation
+- [salad](https://domainadaptation.org/)([github](https://github.com/domainadaptation/salad)): Semi-supervised Adaptive Learning Across Domains: a library for **domain adaptation**
