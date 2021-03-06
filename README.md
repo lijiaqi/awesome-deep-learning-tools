@@ -71,3 +71,6 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 
 ### Semi-Supervised Learning && Domain Adaptation
 - [salad](https://domainadaptation.org/)([github](https://github.com/domainadaptation/salad)): Semi-supervised Adaptive Learning Across Domains: a library for **domain adaptation**
+
+### Domain Generalization
+- [DomainBed](https://github.com/facebookresearch/DomainBed):a PyTorch suite containing benchmark datasets and algorithms for domain generalization, as introduced in [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434).
