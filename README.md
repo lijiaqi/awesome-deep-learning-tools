@@ -67,6 +67,7 @@ collections of efficient tools for deep learning experiments, e.g., experiments 
 ## 3. Libs
 ### Self-Supervised Learning
 - [lightly](https://www.lightly.ai/)([github](https://github.com/lightly-ai/lightly)): a computer vision framework for self-supervised learning.
+- [vissl](https://vissl.ai/)([github](https://github.com/facebookresearch/vissl)): Vision library for state-of-the-art Self-Supervised Learning research with PyTorch
 
 ### Semi-Supervised Learning && Domain Adaptation
 - [salad](https://domainadaptation.org/)([github](https://github.com/domainadaptation/salad)): Semi-supervised Adaptive Learning Across Domains: a library for **domain adaptation**
